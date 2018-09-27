@@ -35,7 +35,7 @@ echo $tag
 
 #Call to MasterDataNode API framework
 appname="######appName######"
-dataset="imgd"
+dataset="agri"
 token="######access_token######"
 HOST="http://api.masterdatanode.com/$appname/$dataset/save/"
 curl -H "access_token:$token" -H "Content-Type: application/json" -d @- "$HOST" <<CURL_DATA
