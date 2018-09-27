@@ -4,7 +4,8 @@
 echo "Call to 'Agri Simulation' App : waiting for 10 sec change the screen to Sample soil or Agriculture land image"
 
 screencapture -T 10 -x image.jpg
-
+# resize the image to low KB
+sips -Z 512 image.jpg 
 echo "Image Captured"
 
 imagedata="data:image/jpeg;base64,$(cat image.jpg | base64 | tr -d \\n)"
