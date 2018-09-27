@@ -1,6 +1,6 @@
 # Agriculture Simulation Screen Capture App using MasterDataNode #
 
-The Agriculture Simulation Screen Capture App is Shell and HTML5 based application to take Screen shot and tag the photo using #MasterDataNode Restful API Ecosystem as Data solution. Based on only 2 html5 pages, with single javascript this App is complete in itself. 
+The Agriculture Simulation Screen Capture App is Shell and HTML5 based application to take Screen shot and tag the photo using #MasterDataNode Restful API Ecosystem as Data solution. Based on only shell script, html5 page with single javascript this App is complete in itself. 
 This App can be further upgraded to have page print capabilites with desired format.
 Data remain persistent using #MasterDataNode Technology Solution by @ArcTopLabs, your data will remain saved unless you decided to delete yourself or as per Policy of #MasterDataNode. 
 
@@ -18,5 +18,5 @@ ArcTop Labs : MasterDataNode Data Solution
 <p>Create an App after login, copy and paste App Name in arctoplabs.js, screenshot.sh file ######appName###### variable</p>
 <p>Copy and Replace the ######access_token###### (available in your login) in arctoplabs.js, agri_simulation.sh file access_token variable</p>
             
-![alt text](https://github.com/ArcTopLabs/MacOS-Screen-Capture-App-using-MasterDataNode-Restful-API/blob/master/screenshot/image.jpg)
+![alt text](https://github.com/ArcTopLabs/Agriculture-Simulation-Screen-Capture-App-using-MasterDataNode/blob/master/screenshot/image.png)
 
